@@ -1,0 +1,35 @@
+Overview
+    This project is a part of CSS111 assignment to enhance student ability to connect learning activity to a project using Python programming language. This project focuses on solving a leetcode problem and methods used to better understand Python language.
+
+Objective
+    The objective of this project is to solve and analyze a problem from leetcode and have a better understanding of Python language.
+
+Disclaimer
+    The problem is provided by leetcode.com and is open to the public to access and solve.
+    No intention of plagiarizing the problem.
+
+
+" Median of Two Sorted Arrays "
+
+
+Testing Evironment
+Language: Python 3.14.0
+Integrated Development Environment: Visual Studio Code 1.146.0
+Operating System: Microsoft Windows 11 Home Single Language 26H2
+
+How to use the program
+1. Open your IDE of choice
+2. Prepare data using .txt format and follow regulation
+3. Click " Run "
+4. Input your file path (eg. directory/filename.txt)
+
+Regulation & Limitation
+ - Program only has a capability to read .txt format
+ - In .txt file, first line is nums1 and Second line is nums2
+ - Output will be shown in Terminal
+
+Reference
+https://www.geeksforgeeks.org/dsa/median-of-two-sorted-arrays-of-different-sizes/
+
+Thank You leetcode.com for providing the problem.
+Thank You geeksforgeeks.org for providing essential information and solution to the problem.
